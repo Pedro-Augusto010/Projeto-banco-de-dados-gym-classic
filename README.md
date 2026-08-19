@@ -64,6 +64,6 @@ Toda a arquitetura do banco foi desenhada utilizando a ferramenta **brModelo**, 
 ├── docs/               # Documentação detalhada dos requisitos e regras de negócio
 ├── model/              # Arquivos de modelagem gerados no brModelo
 │   ├── modelo_conceitual/
-│   ├── modelo_logico/
-│   └── modelo_fisico/
+│   ├── modelo_físico/
+│   └── modelo_lógico/
 └── README.md           # Documentação principal do repositório
