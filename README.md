@@ -2,7 +2,7 @@
 
 Este projeto documenta o processo completo de engenharia e modelagem de dados para a **Gym Classic**, uma rede fictícia de academias. A iniciativa surgiu da necessidade do estabelecimento em modernizar sua infraestrutura de informação, substituindo processos manuais por um sistema de banco de dados relacional robusto, capaz de otimizar a gestão operacional, elevar a qualidade do atendimento e suportar tomadas de decisão estratégicas para o aumento de receita.
 
-O desenvolvimento abrangeu desde a fase de imersão no negócio — com entrevistas com a gestão para mapeamento de processos e levantamento de requisitos — até a construção técnica e validação dos três níveis fundamentais da modelagem de dados (Conceitual, Lógico e Físico).
+O desenvolvimento abrangeu desde a fase de imersão no negócio, com entrevistas com a gestão para mapeamento de processos e levantamento de requisitos, até a construção técnica e validação dos três níveis fundamentais da modelagem de dados (Conceitual, Lógico e Físico).
 
 ---
 
@@ -61,7 +61,7 @@ Toda a arquitetura do banco foi desenhada utilizando a ferramenta **brModelo**, 
 
 ```text
 .
-├── docs/               # Documentação detalhada dos requisitos e regras de negócio
+├── docs/               # Documentação detalhada dos requisitos, regras de negócio e print dos modelos conceitual, lógico e físico do projeto
 ├── modelos/              # Arquivos de modelagem gerados no brModelo
 │   ├── modelo_conceitual/
 │   ├── modelo_físico/
